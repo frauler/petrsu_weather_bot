@@ -1,5 +1,5 @@
-BOT_API_TOKEN = '6254111144:AAFf_z6Hthud9k7y7fC9Yxmb_sYvx057-iA' # токен бота
-WEATHER_API_KEY = '30a7e6edf867fe90da9ad113abf2dac5' # токен
+BOT_API_TOKEN = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx' # токен бота
+WEATHER_API_KEY = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx' # токен
 
 # запрос текущей погоды
 CURRENT_WEATHER_API_CALL = (
